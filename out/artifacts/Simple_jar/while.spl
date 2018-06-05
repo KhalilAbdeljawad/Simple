@@ -1,0 +1,12 @@
+
+var n = 2
+var a = 1;
+while n<=10
+print  nline
+a=1
+while a<=100
+print n<<" * "<<a<<" = "<<n*a<< nline
+a=a+1
+endwhile
+n = n+1
+endwhile

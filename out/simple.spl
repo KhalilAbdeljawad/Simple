@@ -1,0 +1,7 @@
+ "var number = 4",
+                "var n = 9", "var num = 6",
+                "label here:",
+                "print \"Number = \"," +
+                " number, \"   \", nline",
+                "number = number+1",
+                "goto here"

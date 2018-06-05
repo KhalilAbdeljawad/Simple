@@ -1,0 +1,12 @@
+
+var num = 12
+print num<< nline
+if num>33
+print num
+if 5>3
+print "Hello"
+else
+print "Hi"<< nline
+endif
+
+print "Fianl"

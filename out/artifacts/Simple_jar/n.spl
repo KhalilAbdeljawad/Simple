@@ -1,0 +1,12 @@
+
+var n = 1
+
+
+label la:
+
+print n<< nline
+n = n + 1
+
+if n < 10000
+	goto la
+endif

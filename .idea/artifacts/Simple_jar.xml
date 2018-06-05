@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Simple:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Simple_jar</output-path>
+    <root id="archive" name="Simple.jar">
+      <element id="module-output" name="Simple" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/EvalEx-2.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
