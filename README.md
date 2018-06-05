@@ -1,7 +1,7 @@
 # Simple
 Simple is an Interpreted Programming Language, the absolute simple one you can see, simple in building and using.
 For now it contains these stuctures: variable definition, assignment statement, input statemns, if, while, for
-I began in adding functions but stopped for noew because of time.
+I began in adding functions but stopped for now because of time.
 
 Usage: at Command line: java -jar Simple.jar for.spl
 
